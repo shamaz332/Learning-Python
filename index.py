@@ -76,11 +76,20 @@
 
 
 #=============================
+#For Loop
+#=============================
+
+# item = [1,2,3,4,5]
+# for i in item:
+#     print(i+1)
+
+
+#=============================
 #List
 #=============================
 
 
-name = ["usama","irfan","shahzad","sherry","shamaz"]
+# name = ["usama","irfan","shahzad","sherry","shamaz"]
 
 # print(name)
 
@@ -95,5 +104,17 @@ name = ["usama","irfan","shahzad","sherry","shamaz"]
 
 
 #=============================
-#List
+#Range
 #=============================
+
+# itration = range(5)
+# itration = range(5,10)
+# itration = range(5,100,10)
+
+# print(itration)
+
+# for it in itration:
+#     print(it)
+
+
+
