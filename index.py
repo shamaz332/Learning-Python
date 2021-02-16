@@ -41,8 +41,29 @@
 #If else
 #=============================
 
-age = 22
-if age>20:
-    print("Your are young")
-elif age<20:
-    print("your are child")
+# age = 22
+# if age>20:
+#     print("Your are young")
+# elif age<20:
+#     print("your are child")
+
+
+#=============================
+#KG to gram and gram to kg
+#=============================
+
+
+# weight = int(input("Enter Weight :"))
+# unit = input("Enter K for KG and G for Gram  ")
+
+# if unit.upper()=="K":
+#     conv = weight*1000
+#     print("Your weight in grams " + str(conv) )
+# else:
+#     conv = weight / 21000
+#     print("Your weight in kg " + str(conv))
+
+
+#=============================
+#KG to gram and gram to kg
+#=============================
