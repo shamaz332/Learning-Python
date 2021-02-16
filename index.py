@@ -38,5 +38,11 @@
 
 
 #=============================
-#Calculaton
+#If else
 #=============================
+
+age = 22
+if age>20:
+    print("Your are young")
+elif age<20:
+    print("your are child")
