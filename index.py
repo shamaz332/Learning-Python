@@ -80,9 +80,18 @@
 #=============================
 
 
-# name = ["usama","irfan","shahzad","sherry","shamaz"]
+name = ["usama","irfan","shahzad","sherry","shamaz"]
+
 # print(name)
+
 # print(name[0:3])
+
+# print(name.clear())
+
+# name.remove("shamaz")
+# print(name)
+
+# print("irfan" in name)
 
 
 #=============================
